@@ -29,13 +29,6 @@ The model was trained on the **ShanghaiTech Part A** dataset and deployed on rea
 
 ---
 
-## Live Demo — Side-by-Side Video Inference
-
-> Left: original video with live head count overlay | Right: predicted density heatmap (jet colormap)
-
-<video src="video2/combined_side_by_side(frame-skip-5).mp4" controls width="100%"></video>
-
----
 
 ## Evaluation Results — ShanghaiTech Part A Test Set
 
